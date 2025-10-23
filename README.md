@@ -51,7 +51,7 @@ Zamanla çok kullanıcılı bir yapıya, gelir takibine ve aylık bütçe hedefl
 
 | Sayfa | Görsel |
 |-------|--------|
-| **1️⃣ Gider Listesi** | ![Giderler](.media/expenses-list.png) |
+| **1️⃣ Anasayfa** | ![Anasayfa](./media/expenses-list.png) |
 | **2️⃣ Yeni Gider** | ![Yeni Gider](./media/new-expense.png) |
 | **3️⃣ Özet Rapor** | ![Rapor Sayfası](./media/summary-report.png) |
 | **4️⃣ PDF Test (backend)** | ![PDF Çıktısı](./media/pdf-output.png) |
