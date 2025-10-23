@@ -56,9 +56,6 @@ Zamanla çok kullanıcılı bir yapıya, gelir takibine ve aylık bütçe hedefl
 | **3️⃣ Özet Rapor** | ![Rapor Sayfası](./public/screenshots/summary-report.png) |
 | **4️⃣ PDF Test (backend)** | ![PDF Çıktısı](./public/screenshots/pdf-output.png) |
 
-> 📂 Görselleri şu klasöre koy:  
-> `expenseflow-ui/public/screenshots/`
-
 ---
 
 ## ⚙️ Kurulum
